@@ -1,2 +1,2 @@
 # Work-Samples
-Projecr Samples of my work.
+Description and Code for projects on Social Progress Index and Airline Delay Analysis.
