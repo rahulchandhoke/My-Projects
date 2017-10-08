@@ -1,0 +1,1 @@
+I have implemented the SON algorithm to find all the frequent itemsets given an minimum support ratio. I implemented the Apriori algorithm for stage one of the problem.
