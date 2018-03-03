@@ -1,1 +1,0 @@
-The below files describe the implementation of the Two Phase approach to matrix multiplication using Hadoop as well as PySpark.
